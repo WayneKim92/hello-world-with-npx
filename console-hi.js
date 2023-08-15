@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log("Hello, World! with npx");
+console.log("Hi, World! with npx");
