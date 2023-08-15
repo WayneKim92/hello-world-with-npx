@@ -1,6 +1,6 @@
 {
     "name": "hello-world-with-npx",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "NPX로 HelloWorld 표시해보기",
     "main": "index.js",
     "scripts": {
